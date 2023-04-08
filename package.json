@@ -1,11 +1,11 @@
 {
-  "name": "team-project-markup",
+  "name": "team-project-markup-mimino",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://iSteffan.github.io/team-project-markup",
+  "homepage": "https://iSteffan.github.io/team-project-markup-mimino",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-markup/"
+    "build": "parcel build src/*.html --public-url /team-project-markup-mimino/"
   },
   
   "repository": {
